@@ -8,6 +8,8 @@
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
   background-color: rgba(0, 0, 255, 0.3);   /* blue with opacity */
   border: 1px solid rgba(0, 0, 255, 1);	/* solid blue */
+  background-image: url("/img/car-icon.jpg"), url("/img/a-placeholder.jpg");
+  background-position: left top, center center;
 }
 
 
