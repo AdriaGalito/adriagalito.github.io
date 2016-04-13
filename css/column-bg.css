@@ -10,6 +10,7 @@
   border: 1px solid rgba(0, 0, 255, 1);	/* solid blue */
   background-image: url("/img/car-icon.jpg"), url("/img/a-placeholder.jpg");
   background-position: left top, center center;
+  background-repeat: no-repeat;
   background-size: 50%, cover;
 }
 
