@@ -11,7 +11,8 @@
   background-image: url("/img/car-icon.jpg"), url("/img/a-placeholder.jpg");
   background-position: left top, center center;
   background-repeat: no-repeat;
-  background-size: 50%, cover;
+  background-size: 30%, cover;
+  min-height: 100px;
 }
 
 
