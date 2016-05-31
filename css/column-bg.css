@@ -12,7 +12,8 @@
   background-position: left top, center center;
   background-repeat: no-repeat;
   background-size: 30%, cover;
-  min-height: 100px;
+  min-height: 400px;
+  background-attachment: scroll, fixed;
 }
 
 
